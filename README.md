@@ -43,6 +43,7 @@ I love creating **websites, beautiful interfaces**, and **interactive apps**.
   <a href="https://discord.com/invite/exYEn2Z5" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
   <a href="https://x.com/itzyaboysam001" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://pixelsfere.com" target="_blank"><img src="https://img.shields.io/badge/Website-pixelsfere.com-blue?style=flat-square&logo=googlesitekit&logoColor=white"/></a>
+  <a href="mailto:itz_moex@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
