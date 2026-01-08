@@ -37,29 +37,6 @@ I love creating **websites, beautiful interfaces**, and **interactive apps**.
 
 ---
 
-## 📊 GitHub Stats - Cyber Edition
-
-<p align="center">
-  <!-- Total Contributions -->
-  <img src="https://img.shields.io/badge/Contributions-🔥_Check_Repo-ff69b4?style=for-the-badge" alt="Contributions"/>
-
-  <!-- Repositories -->
-  <img src="https://img.shields.io/github/repos/moexblade?style=for-the-badge&color=FF4500" alt="Repositories"/>
-
-  <!-- Top Language -->
-  <img src="https://img.shields.io/github/languages/top/moexblade?style=for-the-badge&color=1E90FF" alt="Top Language"/>
-
-  <!-- Activity Level -->
-  <img src="https://img.shields.io/badge/Activity-⚡_High-green?style=for-the-badge" alt="Activity"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=moexblade&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
-
----
-
 ## 💬 Connect With Me
 
 <p align="center">
