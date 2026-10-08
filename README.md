@@ -20,7 +20,7 @@
 ---
 
 🏛️ **Flutter & Web developer** shaping apps like marble — clean, elegant, timeless.
-🌐 [pixelsfere.com](https://pixelsfere.com)
+🌐 [moex.lol](https://moex.lol)
 
 ---
 
